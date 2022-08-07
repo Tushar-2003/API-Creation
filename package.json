@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "a nodejs api from keploy project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "tushar gupta",
+  "license": "ISC"
+}
+ 
